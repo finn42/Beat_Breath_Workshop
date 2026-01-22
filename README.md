@@ -1,8 +1,10 @@
-# Beat and Breath Workship
+# Beat and Breath Workshop
 
 This repository shares python notebooks and demonstration data for a workshop on looking at measurements of cardiac and respiratory activity via outputs of the Equivital Sensor Vest
 
 Specialised data handling, physiology extraction, and visualisation fuctions in accompanying function files for the notebooks. 
+
+[![DOI](https://zenodo.org/badge/1129118880.svg)](https://doi.org/10.5281/zenodo.18336857)
 
 ---
 
